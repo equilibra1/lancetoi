@@ -35,7 +35,7 @@ module.exports = app;<!DOCTYPE html>
   <style>
     body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
     .quote { font-size: 2em; margin: 20px; }
-  </style>
+  </style>node server.js
 </head>
 <body>
   <h1>Welcome!</h1>
